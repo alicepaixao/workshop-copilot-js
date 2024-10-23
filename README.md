@@ -1,5 +1,4 @@
 
-```markdown
 # 📚 BookManager API - Workshop Prático com GitHub Copilot 🚀
 
 Bem-vindo ao **BookManager API**! 🎉 Este repositório faz parte do nosso **Workshop Prático - GitHub Copilot com Foco em Produtividade**. Aqui, você terá a oportunidade de explorar o uso do GitHub Copilot para **aumentar a produtividade no desenvolvimento de software**. 💻⚙️
@@ -107,4 +106,4 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 
 📍 [Ver Lab 8](LABS/LAB8.md)
 
----
+
