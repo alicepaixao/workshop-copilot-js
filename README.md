@@ -32,7 +32,7 @@ O projeto está organizado da seguinte forma:
 
 ## 🧪 Laboratórios
 
-Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai mostrar como o **GitHub Copilot** pode ser usado para acelerar o desenvolvimento, reduzir erros e aumentar a produtividade. 🚀
+Aqui estão os **Labs** que você irá realizar durante o workshop. Cada lab vai mostrar como o **GitHub Copilot** pode ser usado para acelerar o desenvolvimento, reduzir erros e aumentar a produtividade. 🚀
 
 ---
 
@@ -41,7 +41,7 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 - **Objetivo**: Usar o Copilot para adicionar novos livros à lista de forma rápida e eficiente.
 - **O que você vai fazer**: Adicionar novos livros com o auxílio do Copilot e verificar a adição no sistema.
 
-📍 [Ver Lab 1](LABS/LAB1.md)
+📍 [Ver Lab 1](Labs/LAB1.md)
 
 ---
 
@@ -50,7 +50,7 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 - **Objetivo**: Criar um método `PUT` para atualizar as informações de um livro existente.
 - **O que você vai fazer**: Implementar a lógica de atualização e testar com requisições.
 
-📍 [Ver Lab 2](LABS/LAB2.md)
+📍 [Ver Lab 2](Labs/LAB2.md)
 
 ---
 
@@ -59,7 +59,7 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 - **Objetivo**: Criar um método para pesquisar livros por título ou autor.
 - **O que você vai fazer**: Implementar filtros de pesquisa com o Copilot e buscar livros dinamicamente.
 
-📍 [Ver Lab 3](LABS/LAB3.md)
+📍 [Ver Lab 3](Labs/LAB3.md)
 
 ---
 
@@ -68,7 +68,7 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 - **Objetivo**: Criar um método `DELETE` para remover livros da biblioteca.
 - **O que você vai fazer**: Implementar a funcionalidade de deletar livros e testar a exclusão.
 
-📍 [Ver Lab 4](LABS/LAB4.md)
+📍 [Ver Lab 4](Labs/LAB4.md)
 
 ---
 
@@ -77,7 +77,7 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 - **Objetivo**: Gerar testes unitários automaticamente para validar o CRUD de livros.
 - **O que você vai fazer**: Criar testes unitários para cada método do controlador com o Copilot.
 
-📍 [Ver Lab 5](LABS/LAB5.md)
+📍 [Ver Lab 5](Labs/LAB5.md)
 
 ---
 
@@ -86,7 +86,7 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 - **Objetivo**: Implementar validações para garantir que todos os campos obrigatórios estejam preenchidos.
 - **O que você vai fazer**: Adicionar verificações no método `POST` e garantir que os livros tenham título e autor.
 
-📍 [Ver Lab 6](LABS/LAB6.md)
+📍 [Ver Lab 6](Labs/LAB6.md)
 
 ---
 
@@ -95,7 +95,7 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 - **Objetivo**: Adicionar paginação para melhorar a visualização de grandes listas de livros.
 - **O que você vai fazer**: Criar um método `GET` com suporte a paginação usando o Copilot.
 
-📍 [Ver Lab 7](LABS/LAB7.md)
+📍 [Ver Lab 7](Labs/LAB7.md)
 
 ---
 
@@ -104,6 +104,6 @@ Aqui estão os **labs** que você irá realizar durante o workshop. Cada lab vai
 - **Objetivo**: Usar o Copilot para gerar automaticamente a documentação do código.
 - **O que você vai fazer**: Adicionar comentários e documentação JSDoc em todos os métodos da API.
 
-📍 [Ver Lab 8](LABS/LAB8.md)
+📍 [Ver Lab 8](Labs/LAB8.md)
 
 
